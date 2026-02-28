@@ -1,0 +1,7 @@
+{
+  "mean_latency_ms": 2.7235500002279878,
+  "median_latency_ms": 2.6527000591158867,
+  "p95_latency_ms": 3.3387449104338884,
+  "throughput_sps": 367.1678507522499,
+  "model_size_mb": 1.0402851104736328
+}
