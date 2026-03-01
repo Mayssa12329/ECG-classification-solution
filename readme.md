@@ -425,16 +425,8 @@ data/
 ---
 
 ## 📧 Contact & Support
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/EdgeCardio-AI/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/EdgeCardio-AI/discussions)
-- **Email**: your.email@example.com
-
----
-
-## 📄 License
-
-MIT License - See [LICENSE](LICENSE) file
+- **Discussions**: [GitHub Discussions]([https://github.com/Mayssa12329/ECG-classification-solution.git](https://github.com/Mayssa12329))
+- **Email**: mayssa.benamr@gmail.com
 
 ---
 
